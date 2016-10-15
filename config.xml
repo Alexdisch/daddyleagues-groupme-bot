@@ -2,23 +2,23 @@
 <all>
 	<config>
 		<baseurl>http://daddyleagues.com/</baseurl>
-		<league>TSL</league>
+		<league>NLB</league>
 		<cmdprefix>?</cmdprefix>
 		<pslimit>5</pslimit>
 		<charlimit>1000</charlimit>
 	</config>
 	<info>
-		<league>The Test League (TTL)</league>
-		<commish>put commish name here</commish>
-		<rules>put rules link here</rules>
-		<owners>put owners link here</owners>
-		<advance>9/3, 5pm Central</advance>
+		<league>Next Level Ballers</league>
+		<commish>Atomik/Toke</commish>
+		<rules>https://www.daddyleagues.com/NLB/rules</rules>
+		<trades>https://www.daddyleagues.com/NLB/forum/forum/6003</trades>
+		<feeney>https://media.giphy.com/media/RdsvvZXIzBgNq/giphy.gif</feeney>
 		<draft>9/3, 5pm Central</draft>
-		<botdev>https://github.com/kicker10BOG/daddyleagues-groupme-bot</botdev>
+		<botdev>https://github.com/Alexdisch/daddyleagues-groupme-bot</botdev>
 	</info>
 	<img>
 		<scalp>https://symonsez.files.wordpress.com/2009/08/scalp_edited.jpg</scalp>
-		<ring>http://vignette3.wikia.nocookie.net/lotr/images/9/9b/TheOneRing.jpg</ring>
+		<gronk>https://media.giphy.com/media/3oEjI4GiS4AOv6x0Jy/giphy.gif</gronk>
 	</img>
 	<youtube>
 		<signman>https://www.youtube.com/channel/UCzLK6pOdCYmkEWWoEIxOJ2g</signman>
@@ -35,10 +35,10 @@
 		<nostradamus>8ball</nostradamus>
 	</alias>
 	<twitch>
-		<buf>sometwitchname</buf>
+		<buf></buf>
 		<mia/>
 		<ne/>
-		<nyj/>
+		<nyj>adisch07<nyj/>
 		
 		<bal/>
 		<cin/>
